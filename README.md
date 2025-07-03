@@ -13,7 +13,8 @@ My journey in cybersecurity has lead me to venture into the Security Operations 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | HTML and CSS programming          | <a href="https://github.com/shmidywru/websiteplutos">Pluto's Pizza</a>|
-
+| Kotlin   | <a href="google.com">NutriTrack </a>|
+| SQL and Mongo DB in Oracle RDBMS   | <a href="google.com">Relational Database </a>|
 
 
 ## Tools
@@ -39,3 +40,4 @@ Current Working to attain certifications
 
 ## Projects
 - <a href="https://github.com/shmidywru/websiteplutos">Website Development for Pluto's Pizza</a>
+- Database Development
